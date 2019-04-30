@@ -1,11 +1,11 @@
-@import url(https://raw.githack.com/codedotspectra/themes/master/mini-themes/statusRounded.css);
-@import url(https://raw.githack.com/codedotspectra/themes/master/mini-themes/hljs.css);
-@import url(https://raw.githack.com/codedotspectra/themes/master/mini-themes/settingsIcons.css);
+@import url(https://raw.githack.com/13ace37/discord-themes/master/mini-themes/statusRounded.css);
+@import url(https://raw.githack.com/13ace37/discord-themes/master/mini-themes/hljs.css);
+@import url(https://raw.githack.com/13ace37/discord-themes/master/mini-themes/settingsIcons.css);
 
 :root {
-    --backgroundDark: #3B4252;
+    --backgroundDark: #2E3440;
     --backgroundDarker: #2E3440;
-    --primary: #2E3440;
+    --primary: #3B4252;
     --primaryGradient1: #88C0D0;
     --primaryGradient2: #8FBCBB;
     --DangerColor: #BF616A;
@@ -1561,11 +1561,11 @@ div[style*="/assets/f046e2247d730629309457e902d5c5b3.svg"] {
 }
 
 .actionButton-2PeQbJ:hover {
-    background-color: #007acc !important
+    background-color: #5E81AC !important
 }
 
 .join-33Tr-7 .actionButton-2PeQbJ:hover {
-    background-color: #37956b !important
+    background-color: #A3BE8C !important
 }
 
 .uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j {
