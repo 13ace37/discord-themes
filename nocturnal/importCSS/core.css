@@ -3,14 +3,14 @@
 @import url(https://raw.githack.com/codedotspectra/themes/master/mini-themes/settingsIcons.css);
 
 :root {
-    --backgroundDark: rgb(24, 28, 37);
-    --backgroundDarker: rgb(20, 23, 31);
-    --primary: #008ae6;
-    --primaryGradient1: #008ae6;
-    --primaryGradient2: #00e68a;
-    --DangerColor: #dc3545;
-    --WarningColor: #ffc107;
-    --SuccesColor: #28a745
+    --backgroundDark: #3B4252;
+    --backgroundDarker: #2E3440;
+    --primary: #5E81AC;
+    --primaryGradient1: #88C0D0;
+    --primaryGradient2: #8FBCBB;
+    --DangerColor: #BF616A;
+    --WarningColor: #EBCB8B;
+    --SuccesColor: #A3BE8C;
 }
 
 #app-mount {
@@ -412,7 +412,7 @@ div[style*="/assets/f046e2247d730629309457e902d5c5b3.svg"] {
 .homeLink-2NBBKi {
     transition: all .3s ease;
     background-image: linear-gradient(to left, var(--primaryGradient1), var(--primaryGradient2));
-    -webkit-mask-image: url(https://i.imgur.com/lYXFpXr.png);
+    -webkit-mask-image: url(https://www.nordtheme.com/icons/icon-512x512.png);
     -webkit-mask-position: center;
     -webkit-mask-repeat: no-repeat;
     -webkit-mask-size: contain
@@ -1696,7 +1696,7 @@ svg[name=Nitro] g path {
 .button-OhfaWu {
     transition: all .3s ease;
     background-image: linear-gradient(to left, var(--primaryGradient1), var(--primaryGradient2));
-    -webkit-mask-image: url(https://i.imgur.com/lYXFpXr.png);
+    -webkit-mask-image: url(https://www.nordtheme.com/icons/icon-512x512.png);
     -webkit-mask-position: center;
     -webkit-mask-repeat: no-repeat;
     -webkit-mask-size: contain
