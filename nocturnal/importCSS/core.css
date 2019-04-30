@@ -13,20 +13,6 @@
     --SuccesColor: #A3BE8C;
 }
 
-#app-mount {
-    animation: themeStart .5s linear 0s 1 normal
-}
-
-@keyframes themeStart {
-    from {
-        filter: blur(100px)
-    }
-
-    to {
-        filter: blur(0)
-    }
-}
-
 #friends,
 .activityFeed-1C0EmJ,
 .appMount-3VJmYg,
